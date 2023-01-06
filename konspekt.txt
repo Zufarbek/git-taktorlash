@@ -1,0 +1,12 @@
+1. git init => git Initialasize
+2. git add . => bu barcha file va folderlarni qoshib yig'ib beradi
+3. git commit -m "birinchi dastur versiyasi yuklandi"
+4. git branch -M main
+5. git remote add origin https://github.com/Zufarbek/git-taktorlash.git
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Zufarbek/git-taktorlash.git
+git push -u origin main

@@ -15,3 +15,9 @@ git push -u origin main
 2. git add .
 3. git commit -m "kospektda o'zgarish bo'ldi"
 4. git push -u origin main
+
+
+BRANCH
+1. git checkout branch_nomi
+2. git branch => branchlar ro'yxati
+3. git branch branch_nomi => yangi branch yaratish.
